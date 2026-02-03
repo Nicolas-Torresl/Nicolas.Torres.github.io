@@ -5,7 +5,7 @@ import react from "@astrojs/react";
 
 export default defineConfig({
   site: "https://NicolasTorres.github.io",
-  base: "/Nicolàs-Torres.github/",
+  base: "/Nicolàs.Torres.github/",
 
   integrations: [tailwind(), react()],
 
